@@ -1,6 +1,4 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
 
----
 1. Write a function that returns the sum of two numbers.
 2. Write a function that returns the sum of all numbers regardless of # of params.
 
