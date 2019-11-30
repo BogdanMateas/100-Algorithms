@@ -21,4 +21,4 @@ function alternatingSums(arr) {
   }
    
    
-  console.log(alternatingSums2([50,60,60,45,70]));
+  console.log(alternatingSums2([50,60,60,45,70, 80]));
